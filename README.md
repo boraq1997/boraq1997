@@ -48,7 +48,7 @@
 
 <hr>
 
-<img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/asset/github-compact.svg">
+<img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/asset/github-dark-dimmed.svg">
 
 <div align="">
   <h2>🐍 My Contributions 🐍</h2>
