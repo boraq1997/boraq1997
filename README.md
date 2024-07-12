@@ -39,7 +39,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=800 height=220 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=800 height=220 src="https://camo.githubusercontent.com/54ab067631baa370cab066381fff9c695d74281e11d501f0182e8b011e4b699c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7468616e676368756e672673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d616c676f6c6961" alt="streak stats"/>
   <hr>
   <img  width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
