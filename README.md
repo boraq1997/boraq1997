@@ -48,6 +48,8 @@
 
 <hr>
 
+<img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/asset/github-compact.svg">
+
 <div align="">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" />
