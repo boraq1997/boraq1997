@@ -53,3 +53,5 @@
   <img alt="snake eating my contributions" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" />
   <br/><br/><br/>
 </div>
+
+<img src="https://github.com/ndleah/ndleah/blob/main/github-metrics.svg">
