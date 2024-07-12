@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boraq Nezar</h1>
-<h3 align="center">a fullstack web devloper from iraq</h3>
+<h3 align="center">
+  Hello! I'm Boraq Nezar, a passionate male full-stack web developer and freelancer from Iraq. With a keen interest in crafting robust and user-friendly web applications, I bring creativity and technical expertise to every project I undertake.
+</h3>
 
 <img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="github profile image">
 
