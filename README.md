@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boraq Nezar</h1>
 <h3 align="center">a fullstack web devloper from iraq</h3>
 
-<img align="center" width="400" src="https://64.media.tumblr.com/552853d319cefc54496d2b5f73feecc2/a4fbe4c00735a262-9b/s1280x1920/4576d6cfb371d58722906339a6385d020dedc681.gifv" alt="github profile image">
+<img align="center" width="100%" src="https://64.media.tumblr.com/552853d319cefc54496d2b5f73feecc2/a4fbe4c00735a262-9b/s1280x1920/4576d6cfb371d58722906339a6385d020dedc681.gifv" alt="github profile image">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boraq1997&label=Profile%20views&color=0e75b6&style=flat" alt="boraq1997" /> </p>
