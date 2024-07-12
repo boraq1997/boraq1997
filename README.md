@@ -39,7 +39,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=800 height=220 src="https://camo.githubusercontent.com/8a48f6cfbc5b6049f40858ccbc764aca336bb237e5fd1fa0533bd395d44be688/68747470733a2f2f6769746875622d726561646d652d73746174732d73616c65737030372e76657263656c2e6170702f6170693f757365726e616d653d73616c657370303726636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d72656163742672616e6b5f69636f6e3d67697468756226626f726465725f7261646975733d3130" alt="streak stats"/>
+  <img width=800 height=220 src="[![GitHub Streak](https://streak-stats.demolab.com?user=boraq1997&theme=dracula&hide_border=true&border_radius=7&mode=weekly&card_width=900)](https://git.io/streak-stats)
+" alt="streak stats"/>
   <hr>
   <img  width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
