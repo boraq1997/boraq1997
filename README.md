@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="github profile image">
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="github profile image" style="border-radius: 5px">
 
 
 <h1 align="center">Hi 👋, I'm Boraq Nezar</h1>
@@ -39,4 +39,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boraq1997&" alt="boraq1997" /></p>
 
-<script>alert("OK")</script>
