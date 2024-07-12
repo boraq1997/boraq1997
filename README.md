@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boraq Nezar</h1>
-<h3 align="center">A passionate fullstack developer from Iraq</h3>
+<h3 align="center">a fullstack web devloper from iraq</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boraq1997&label=Profile%20views&color=0e75b6&style=flat" alt="boraq1997" /> </p>
 
