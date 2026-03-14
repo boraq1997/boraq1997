@@ -1,104 +1,42 @@
-<!-- HERO BANNER -->
+---
+name: frontend-design
+description: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.
+license: Complete terms in LICENSE.txt
+---
 
+This skill guides creation of distinctive, production-grade frontend interfaces that avoid generic "AI slop" aesthetics. Implement real working code with exceptional attention to aesthetic details and creative choices.
 
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="github profile banner" style="border-radius: 8px" />
+The user provides frontend requirements: a component, page, application, or interface to build. They may include context about the purpose, audience, or technical constraints.
 
+## Design Thinking
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=520&height=70&duration=3500&lines=Hi+There!+👋;I'm+Boraq+Nezar;Full-Stack+Web+Developer" />
-</h1>
+Before coding, understand the context and commit to a BOLD aesthetic direction:
+- **Purpose**: What problem does this interface solve? Who uses it?
+- **Tone**: Pick an extreme: brutally minimal, maximalist chaos, retro-futuristic, organic/natural, luxury/refined, playful/toy-like, editorial/magazine, brutalist/raw, art deco/geometric, soft/pastel, industrial/utilitarian, etc. There are so many flavors to choose from. Use these for inspiration but design one that is true to the aesthetic direction.
+- **Constraints**: Technical requirements (framework, performance, accessibility).
+- **Differentiation**: What makes this UNFORGETTABLE? What's the one thing someone will remember?
 
+**CRITICAL**: Choose a clear conceptual direction and execute it with precision. Bold maximalism and refined minimalism both work - the key is intentionality, not intensity.
 
-<h3 align="center">
-Full-stack web developer & freelancer from Iraq 🇮🇶. I build robust, scalable, and user-friendly applications with a strong focus on clean architecture, performance, and great UX.
-</h3>
+Then implement working code (HTML/CSS/JS, React, Vue, etc.) that is:
+- Production-grade and functional
+- Visually striking and memorable
+- Cohesive with a clear aesthetic point-of-view
+- Meticulously refined in every detail
 
+## Frontend Aesthetics Guidelines
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boraq1997&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+Focus on:
+- **Typography**: Choose fonts that are beautiful, unique, and interesting. Avoid generic fonts like Arial and Inter; opt instead for distinctive choices that elevate the frontend's aesthetics; unexpected, characterful font choices. Pair a distinctive display font with a refined body font.
+- **Color & Theme**: Commit to a cohesive aesthetic. Use CSS variables for consistency. Dominant colors with sharp accents outperform timid, evenly-distributed palettes.
+- **Motion**: Use animations for effects and micro-interactions. Prioritize CSS-only solutions for HTML. Use Motion library for React when available. Focus on high-impact moments: one well-orchestrated page load with staggered reveals (animation-delay) creates more delight than scattered micro-interactions. Use scroll-triggering and hover states that surprise.
+- **Spatial Composition**: Unexpected layouts. Asymmetry. Overlap. Diagonal flow. Grid-breaking elements. Generous negative space OR controlled density.
+- **Backgrounds & Visual Details**: Create atmosphere and depth rather than defaulting to solid colors. Add contextual effects and textures that match the overall aesthetic. Apply creative forms like gradient meshes, noise textures, geometric patterns, layered transparencies, dramatic shadows, decorative borders, custom cursors, and grain overlays.
 
+NEVER use generic AI-generated aesthetics like overused font families (Inter, Roboto, Arial, system fonts), cliched color schemes (particularly purple gradients on white backgrounds), predictable layouts and component patterns, and cookie-cutter design that lacks context-specific character.
 
+Interpret creatively and make unexpected choices that feel genuinely designed for the context. No design should be the same. Vary between light and dark themes, different fonts, different aesthetics. NEVER converge on common choices (Space Grotesk, for example) across generations.
 
-⸻
+**IMPORTANT**: Match implementation complexity to the aesthetic vision. Maximalist designs need elaborate code with extensive animations and effects. Minimalist or refined designs need restraint, precision, and careful attention to spacing, typography, and subtle details. Elegance comes from executing the vision well.
 
-🚀 About Me
-	•	🔭 Currently working on AI projects & data analysis (Pandas, NumPy, Matplotlib)
-	•	🌱 Learning Python, Tkinter, and Artificial Intelligence
-	•	👨‍💻 Portfolio & projects: https://boraq.site
-	•	💬 Ask me about Laravel, Vue, Angular, PHP, JavaScript, SQL, Linux, Python
-	•	📫 Reach me at boraqnz@gmail.com
-
-⸻
-
-🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/boraq-nezar-836919157" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://facebook.com/boraqboraq1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/mt._kf/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
-
-
-
-⸻
-
-⚒️ Languages • Frameworks • Tools
-
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" />
-</p>
-
-
-
-⸻
-
-📊 GitHub Stats
-
-<div align="center">
-  <img height="190" src="https://streak-stats.demolab.com?user=boraq1997&theme=dracula&hide_border=true&border_radius=8" />
-  <br/><br/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=boraq1997&count_private=true&show_icons=true&theme=react&border_radius=10" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boraq1997&layout=compact&theme=react&border_radius=10" />
-</div>
-
-
-
-⸻
-
-🐍 Contributions
-
-<img alt="snake eating my contributions" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" />
-
-
-
-⸻
-
-
-<img align="center" width="100%" src="https://64.media.tumblr.com/552853d319cefc54496d2b5f73feecc2/a4fbe4c00735a262-9b/s1280x1920/4576d6cfb371d58722906339a6385d020dedc681.gifv" alt="footer banner" />
+Remember: Claude is capable of extraordinary creative work. Don't hold back, show what can truly be created when thinking outside the box and committing fully to a distinctive vision.
