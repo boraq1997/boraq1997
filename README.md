@@ -22,7 +22,7 @@
 💬 Ask me about          →  Laravel, Vue, Angular, PHP, JavaScript, SQL, Linux, Python
 📫 Reach me at           →  boraqnz@gmail.com
 🌍 Location              →  Iraq 🇮🇶
-` ` `
+```
 
 ---
 
@@ -114,12 +114,3 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00AAFF,50:00E5A0,100:0A0F1E&height=120&section=footer" />
 </div>
 ```
-
----
-
-**طريقة الاستخدام:**
-1. اذهب إلى `github.com/boraq1997/boraq1997`
-2. افتح ملف `README.md`
-3. الصق الكود واحفظ
-
-> ملاحظة: أزل المسافة بين ` `` ` ` ` ` في قسم "About Me" — أضفتها فقط لتجنب تداخل الكود هنا.
